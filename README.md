@@ -1,4 +1,4 @@
-# Study materials from Intro to Algorithms // FCC
+# Study notes from Intro to Algorithms // FCC
 
 ## Algorithm
 
@@ -41,4 +41,3 @@
 
     - whereas N is the index and M is the size of the stored data
 
-## Linked List
